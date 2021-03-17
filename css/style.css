@@ -1,0 +1,57 @@
+.bdg{
+	display: flex;
+	justify-content: center;
+}
+.ask{
+	display: flex;
+	justify-content: none;
+}
+.pl{
+	margin: 10px;
+	color: #ADFF2F;
+}
+.asd{
+	display: flex;
+	justify-content: center;
+}
+.kow{
+	display: flex;
+	justify-content: center;
+}
+.spas{
+	margin: 10px;
+	color: #ff0000;
+}
+.qqo{
+	display: flex;
+	justify-content: center;
+}
+.ll{
+	display: flex;
+	justify-content: center;
+}
+.mm{
+	margin: 10px;
+	color: yellow;
+}
+.shurika{
+	width: 43px;
+	
+	margin-top: 40px;
+
+}
+.qweewq{
+	background-color: #4d4d4d;
+	margin-top: 100px;
+	font-size: 150px;
+	display: flex;
+	justify-content: none;
+
+
+}
+.fhoto{
+    width: 40px;
+    margin-left: 12px;
+}
+
+
